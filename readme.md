@@ -18,26 +18,26 @@ Python packages used :
 For Windows
 
 ```bash
-  cd IMDB-MovieScraper
   git clone https://github.com/Sayakdutt/IMDB-MovieScraper.git
+  cd IMDB-MovieScraper
   pip install -r requirements.txt
 ```
 For Linux:
 ```bash
-  cd IMDB-MovieScraper
   git clone https://github.com/Sayakdutt/IMDB-MovieScraper.git
+  cd IMDB-MovieScraper
   pip3 install -r requirements.txt
 ```
 
     
 ## Usage/Examples
-
-For Linux:
-```javascript
-python3 scraper.py
-```       
+      
 For Windows:
 ```javascript
 python scraper.py
 ```
+For Linux:
+```javascript
+python3 scraper.py
+``` 
 
